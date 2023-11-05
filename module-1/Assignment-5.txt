@@ -1,0 +1,70 @@
+Functional Programming in Real-World Data Processing
+Objective: To apply functional programming principles to real-world data processing tasks.
+
+Task: In this assignment, students will work with a real-world dataset (e.g., a CSV file) containing actual data. They are required to use Haskell, a functional programming language, to process, analyze, and manipulate the data using functional techniques. Tasks may include filtering, transforming, and aggregating data, all while adhering to functional programming principles.
+
+Instructions:
+
+Part 1: Real-World Data Processing
+
+Scenario:
+
+Functional programming principles are not limited to theoretical problems; they are highly effective in real-world data processing. This assignment aims to bridge the gap between theory and practical application.
+
+Your Task:
+
+You are provided with a real-world dataset in a common format such as CSV. The dataset will contain meaningful data that needs to be processed and analyzed.
+
+a. Data Selection: Choose a dataset with at least 500 rows of data and a minimum of 5 columns. You can find publicly available datasets on websites like Kaggle or use a dataset from your area of interest.
+
+b. Data Processing: Using Haskell, write a program that reads the dataset, processes it, and performs meaningful operations. You can choose to perform tasks such as filtering, transforming, aggregating, or calculating statistics on the data.
+
+c. Functional Programming: Make sure your solution adheres to functional programming principles. Utilize higher-order functions, immutability, and recursion as needed.
+
+Part 2: Code Implementation
+
+Write Haskell code to read and process the provided dataset. Ensure that you use functional programming constructs effectively.
+
+Document your code thoroughly with comments explaining the purpose of each function and how functional principles are applied.
+
+Part 3: Data Processing and Analysis
+
+Implement data processing and analysis tasks on the dataset. You can choose tasks based on the nature of your dataset and your interests. Some examples include:
+
+Filtering and selecting specific rows or columns.
+Transforming data (e.g., converting units, cleaning data).
+Aggregating data (e.g., calculating averages, sums).
+Visualizing data (optional but encouraged).
+Part 4: Report and Documentation
+
+In a separate document (e.g., a report or README file), provide the following:
+
+a. A description of the dataset used, including its source and a brief explanation of the data's context.
+
+b. An explanation of the data processing and analysis tasks performed, including the rationale behind each task.
+
+c. Any challenges faced during data processing and how functional programming principles helped overcome them.
+
+Part 5: Submission
+
+Submit the following:
+
+a. Your Haskell code for data processing.
+
+b. Any additional scripts or files necessary to run your code.
+
+c. The real-world dataset you used.
+
+d. The report or documentation as described in Part 4.
+
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and functionality of your Haskell code in processing the dataset.
+
+Effective application of functional programming principles.
+
+Completeness and correctness of the data processing and analysis tasks.
+
+Quality and clarity of the report or documentation, including dataset description and rationale for data processing.

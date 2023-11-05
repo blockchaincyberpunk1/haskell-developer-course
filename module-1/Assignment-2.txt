@@ -1,0 +1,59 @@
+Implementing Higher-Order Functions
+Objective: To practice creating higher-order functions in a functional programming context.
+
+Task: In this assignment, students will implement a series of higher-order functions such as map, filter, or reduce from scratch in Haskell. These functions should operate on lists or collections and demonstrate how functions can take other functions as arguments or return functions as results.
+
+Instructions:
+
+Part 1: Higher-Order Functions
+
+Scenario:
+
+Higher-order functions are a fundamental concept in functional programming. They allow functions to take other functions as arguments or return functions as results. This assignment aims to reinforce your understanding of higher-order functions.
+
+Your Task:
+
+You are required to implement the following higher-order functions in Haskell:
+
+a. myMap Function:
+
+Implement a myMap function that takes a function and a list as arguments and applies the function to each element of the list, returning a new list with the results.
+b. myFilter Function:
+
+Implement a myFilter function that takes a predicate function and a list as arguments and returns a new list containing only the elements that satisfy the predicate.
+c. myReduce Function:
+
+Implement a myReduce (or myFold) function that takes a binary function, an initial accumulator value, and a list as arguments. It should accumulate the list's elements from left to right using the binary function and return the final result.
+Part 2: Code Implementation
+
+Write the Haskell code for the myMap, myFilter, and myReduce functions.
+
+Ensure that your code is well-documented with explanations and comments for each function.
+
+Part 3: Testing and Usage
+
+Create test cases to validate the correctness of your myMap, myFilter, and myReduce functions. Test them with various inputs and scenarios.
+
+Provide usage examples of your functions with clear explanations of how to use them.
+
+Part 4: Submission
+
+Submit the following:
+
+a. Your Haskell code for the myMap, myFilter, and myReduce functions.
+
+b. Test cases to demonstrate the correctness of your functions.
+
+c. Usage examples and explanations.
+
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and functionality of the myMap, myFilter, and myReduce functions.
+
+Quality and clarity of code documentation and comments.
+
+Effectiveness of test cases in validating the functions.
+
+Clarity and completeness of usage examples and explanations.

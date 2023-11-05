@@ -1,0 +1,54 @@
+Concurrent Data Processing Pipeline
+Objective: To understand how to create concurrent data processing pipelines.
+
+Task: In this assignment, you will explore concurrent data processing pipelines in Haskell. Your task is to design and implement a concurrent data processing pipeline where different stages of the pipeline can process data concurrently. This assignment will help you understand how concurrent execution can improve overall throughput when processing data.
+
+Instructions:
+
+Choose a data processing task that can be divided into multiple stages. For example, you can consider a data transformation pipeline that takes raw data, applies various transformations, and produces the final result.
+
+Implement a Haskell program that models the different stages of the data processing pipeline as concurrent components. You may use Haskell's concurrency and parallelism features, such as forkIO, to create and manage concurrent threads for each stage.
+
+Design a mechanism to generate or receive input data for your pipeline. You should be able to control the volume of data and the rate at which it is fed into the pipeline.
+
+Define clear boundaries and communication mechanisms between the stages of the pipeline. Ensure that data flows smoothly from one stage to another.
+
+Measure and record the performance of your concurrent data processing pipeline. You should collect data on the throughput, execution time, and resource utilization (CPU and memory) during the processing.
+
+Analyze and present the results, showcasing how concurrency improves the overall throughput of your data processing pipeline.
+
+Include comments in your Haskell code to explain the pipeline structure, the purpose of each stage, and how data is passed between stages.
+
+Part 1: Example Data Processing Pipeline
+
+Here is an example scenario to help you get started:
+
+You decide to create a concurrent data processing pipeline for image processing. The pipeline consists of three stages: image loading, image transformation (e.g., applying filters), and image saving. Each stage is implemented as a concurrent component, and images are passed from one stage to another for processing. You measure the throughput and execution time for processing a batch of images.
+
+Part 2: Testing and Documentation
+
+Thoroughly test your Haskell program to ensure that the data processing pipeline functions correctly and that concurrency improves throughput.
+
+Document your Haskell code with comments explaining the pipeline structure, the role of each stage, and data flow mechanisms.
+
+Part 3: Submission
+
+Prepare a report that describes your data processing pipeline, the concurrent components used, and the results obtained from the performance measurements.
+
+Include visual representations or graphs to illustrate the throughput improvements achieved through concurrency.
+
+Evaluation Criteria:
+
+Your concurrent data processing pipeline assignment will be evaluated based on the following criteria:
+
+Correctness: The correctness and effectiveness of your data processing pipeline.
+
+Concurrency: The successful implementation of concurrent components and the utilization of concurrency features in Haskell.
+
+Throughput: The degree to which concurrency improves the overall throughput of the data processing pipeline.
+
+Testing: Thorough testing to ensure that the pipeline functions correctly under concurrent conditions.
+
+Documentation: Quality documentation in your Haskell code and the clarity of your report.
+
+Presentation: The effectiveness of your graphical representations of throughput improvements.

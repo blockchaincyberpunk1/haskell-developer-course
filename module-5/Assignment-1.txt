@@ -1,0 +1,67 @@
+Implementing Custom Type Classes
+Objective: To reinforce understanding of type classes in Haskell.
+
+Task: In this assignment, you will define your custom type class with specific methods and instances. You will then implement this type class in different data types and demonstrate its use in polymorphic functions.
+
+Instructions:
+
+Part 1: Custom Type Class Definition
+
+Type Class Definition:
+
+Your first task is to define a custom type class with at least three methods. These methods can perform various operations or calculations specific to the type class's purpose. Choose a meaningful name for your type class.
+
+Method Signatures:
+
+Define the method signatures within your type class. Each method should take specific arguments and return appropriate values. Ensure that your methods represent the core functionality of your custom type class.
+
+Part 2: Custom Data Types
+
+Create Custom Data Types:
+
+Next, create a set of custom data types that represent different concepts or entities in Haskell. You will implement your custom type class for these data types.
+
+Type Class Instances:
+
+Implement instances of your custom type class for each of the custom data types you created. Each instance should define how the methods from your type class are implemented for that particular data type.
+
+Part 3: Polymorphic Functions
+
+Polymorphic Functions:
+
+Write at least two polymorphic functions that use your custom type class. These functions should demonstrate how the same function can work with different data types that share the same type class instance.
+
+Function Descriptions:
+
+Provide descriptions and comments for your polymorphic functions, explaining their purpose and how they leverage the type class.
+
+Part 4: Testing and Validation
+
+Test your implementation with various data types and instances to ensure that your custom type class works correctly.
+
+Include test cases that cover different aspects of your type class's functionality, showcasing its flexibility and polymorphic nature.
+
+Part 5: Documentation and Explanation
+
+Document your Haskell code thoroughly, including comments and explanations of your custom type class, its methods, and their implementations.
+
+Write a detailed report that includes the following:
+
+An explanation of the purpose and functionality of your custom type class.
+Descriptions of the custom data types and their instances.
+Demonstrations of how your polymorphic functions use the custom type class.
+An overview of your testing and validation process, including the results and any notable observations or insights.
+Part 6: Submission
+
+Submit your Haskell code, including your custom type class, data types, instances, and polymorphic functions. Include your documentation and explanations in the report.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct and well-structured implementation of the custom type class, its methods, and instances for different data types.
+
+Quality and clarity of code documentation and comments, particularly in explaining the purpose and functionality of your custom type class and its instances.
+
+Effectiveness of testing and validation, including a discussion of the results and how the custom type class demonstrates polymorphism.
+
+Clear and comprehensive explanations in the report about the custom type class, its methods, data types, instances, and the use of polymorphic functions.

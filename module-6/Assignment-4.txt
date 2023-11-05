@@ -1,0 +1,63 @@
+Web Application with Yesod or Scotty
+Objective: To extend your Haskell skills by building a web application using a Haskell web framework.
+
+Task: In this optional assignment, you have the opportunity to create a simple web application using a Haskell web framework such as Yesod or Scotty. This assignment aims to give you hands-on experience in developing a web interface and implementing functionality in Haskell.
+
+Instructions:
+
+Part 1: Framework Selection
+
+Choose a Haskell web framework for your project. You can opt for either Yesod or Scotty, depending on your preference and familiarity.
+Part 2: Web Application Development
+
+Develop a simple web application that includes the following components:
+
+User Interface: Design and create a user-friendly web interface using HTML, CSS, and any frontend libraries or tools of your choice.
+
+Functionality: Implement at least two distinct features or functionalities within your web application. These functionalities can involve user interactions, data storage, or any other suitable tasks. Examples include a to-do list manager, a blog platform, a chat application, or a content management system.
+
+Database Interaction (Optional): If your project requires data storage, consider integrating a database into your application. You can use a lightweight database system like SQLite or PostgreSQL and interact with it using Haskell libraries.
+
+Error Handling: Implement error handling mechanisms to provide meaningful error messages to users when something goes wrong.
+
+Part 3: User Interaction and Testing
+
+Create a user guide or documentation explaining how users can interact with your web application. Provide clear instructions on how to use the features you've implemented.
+
+Thoroughly test your web application, including user interactions and error scenarios. Ensure that the application behaves as expected and handles errors gracefully.
+
+Part 4: Deployment (Optional)
+
+If you choose to deploy your web application, provide instructions or a brief report on how you deployed it. You can use platforms like Heroku, AWS, or any other hosting service.
+Part 5: Documentation and Report
+
+Document your Haskell code with comments, explaining the functionality of various components.
+
+Write a comprehensive report describing your web application, including its purpose, features, and how it fulfills the assignment objectives.
+
+Part 6: Submission (Optional)
+
+If you decide to submit your assignment, provide the source code of your Haskell web application, documentation, and the report.
+Evaluation Criteria:
+
+If you choose to complete this optional assignment, it will be evaluated based on the following criteria:
+
+Choice of Framework: The selection of Yesod or Scotty and the rationale behind the choice.
+
+Web Application Functionality: The implementation of at least two distinct features or functionalities within your web application.
+
+User Interface: The design and user-friendliness of the web interface.
+
+Database Integration (if applicable): The successful integration of a database into your application and data retrieval/manipulation.
+
+Error Handling: Effective error handling mechanisms and meaningful error messages.
+
+User Guide: Clear and concise user instructions for interacting with your web application.
+
+Testing: Thorough testing to ensure correct functionality and graceful error handling.
+
+Documentation: Quality documentation in your Haskell code.
+
+Report: The clarity and comprehensiveness of the report, including the application's purpose and features.
+
+Deployment (if applicable): Deployment instructions or a report on the deployment process.

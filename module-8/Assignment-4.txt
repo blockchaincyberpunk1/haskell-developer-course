@@ -1,0 +1,37 @@
+Blog or Tutorial Review
+Objective: To stay informed about Haskell developments through blogs and tutorials.
+
+Task: In this assignment, you will engage with the Haskell community by reading a recent Haskell-related blog post or tutorial. Your task is to write a review or summary of the content, reflecting on what you learned, any challenges you encountered, and how the content contributes to your Haskell knowledge.
+
+Instructions:
+
+Select a Haskell Blog Post or Tutorial: Choose a recent Haskell-related blog post or tutorial that interests you. You can explore platforms like Medium, dev.to, personal blogs, or educational websites. Ensure that the content is recent (preferably within the last six months) and relevant to Haskell development.
+
+Read and Study: Thoroughly read and study the chosen blog post or tutorial. Pay attention to the concepts, techniques, or tools discussed, and try to understand their practical applications.
+
+Write a Review or Summary: Write a review or summary of the content. Your review should include the following aspects:
+
+Introduction: Begin with a brief introduction to the blog post or tutorial, including the title and author.
+Summary: Summarize the main points or takeaways from the content. What is the content about, and what Haskell-related topics or concepts does it cover?
+Key Learnings: Share the most important things you learned from the content. How did it expand your understanding of Haskell?
+Challenges Faced: Discuss any challenges or difficulties you encountered while reading or understanding the content. Did you need to research additional concepts to grasp the content fully?
+Personal Reflection: Reflect on how the content relates to your Haskell learning journey. Does it align with your interests or current areas of study?
+Contributions: Highlight the contributions of the content to the Haskell community. How might it benefit other Haskell developers or learners?
+Recommendation: Would you recommend this content to other Haskell enthusiasts? Why or why not?
+Submission: Submit your review as a well-structured document. You can write your review in a plain text file or use a lightweight markup language like Markdown.
+
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Content Understanding: The depth of your understanding of the chosen blog post or tutorial, as reflected in your review.
+
+Key Learnings: The clarity and relevance of the key learnings you've identified from the content.
+
+Challenges and Research: The recognition of challenges faced and the effort you made to address them, including any additional research.
+
+Personal Reflection: Your ability to reflect on the content's significance to your Haskell learning journey.
+
+Contributions to the Haskell Community: Your insights into how the content contributes to the Haskell community.
+
+Recommendation: Your ability to provide a thoughtful recommendation regarding whether other Haskell enthusiasts should read the content.

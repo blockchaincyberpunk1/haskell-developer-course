@@ -1,0 +1,47 @@
+Polymorphic Functions with Type Constraints
+Objective: To practice working with type constraints and polymorphic functions.
+
+Task: In this assignment, you will be provided with a set of functions that require specific type class constraints (e.g., Eq, Ord). Your task is to implement these functions, ensuring they work with a variety of data types that satisfy the required constraints.
+
+Instructions:
+
+Part 1: Function Implementation
+
+You will be provided with a list of functions, each with specific type class constraints, such as Eq a => a -> a -> Bool or Ord a => [a] -> [a]. These constraints specify the types of arguments the function can accept.
+
+Implement each function according to its provided type signature and constraints. Ensure that the functions correctly perform their intended tasks.
+
+Part 2: Type Constraint Verification
+
+For each function, include appropriate type constraint annotations (e.g., Eq a =>) in the function's signature to enforce the required constraints.
+Part 3: Polymorphism Demonstration
+
+Create a set of test cases for each function, demonstrating its polymorphic nature by using it with various data types that satisfy the required constraints.
+Part 4: Testing and Validation
+
+Test your implementation to ensure that each function works as expected and satisfies the specified constraints.
+Part 5: Documentation and Explanation
+
+Document your Haskell code thoroughly, including comments and explanations of each function's purpose and how they satisfy the type constraints.
+
+Write a report that includes the following:
+
+A brief overview of the type constraints and their significance in Haskell.
+Explanations of how each implemented function adheres to the required constraints.
+Descriptions and examples of the test cases you created to demonstrate polymorphism.
+Part 6: Submission
+
+Submit your Haskell code, including the implemented functions with type constraints, along with your test cases. Include your documentation and explanations in the report.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct implementation of each function with the specified type constraints.
+
+Effective use of type constraint annotations in function signatures.
+
+Quality and clarity of code documentation and comments, particularly in explaining how each function adheres to the type constraints.
+
+Comprehensive and well-documented test cases demonstrating the polymorphic nature of the functions.
+
+Clear and detailed explanations in the report about the importance of type constraints, how the functions adhere to them, and the use of test cases for polymorphism demonstration.

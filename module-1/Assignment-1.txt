@@ -1,0 +1,64 @@
+Functional vs. Imperative Comparison
+Objective: To understand the differences between functional and imperative programming.
+
+Task: In this assignment, students will write two versions of a simple program in Haskell, one using functional programming principles and the other using imperative programming. The program can perform a common task like filtering elements from a list or calculating the factorial of a number. Students should document the differences in code structure, readability, and maintainability between the two versions.
+
+Instructions:
+
+Part 1: Program Description
+
+Scenario:
+
+Functional programming and imperative programming are two distinct paradigms with different approaches to solving problems. This assignment aims to highlight the differences between these paradigms by having you implement the same task using both functional and imperative styles in Haskell.
+
+Your Task:
+
+Your task is to write two versions of a program in Haskell that accomplishes a common task. You can choose one of the following tasks or propose a similar one:
+
+a. Task 1: List Filtering
+
+Functional Version: Implement a function that filters elements from a list based on a given condition using functional programming principles (e.g., using filter).
+Imperative Version: Implement the same functionality using loops and mutable variables (if necessary).
+b. Task 2: Factorial Calculation
+
+Functional Version: Write a function that calculates the factorial of a number using recursion and functional programming principles.
+Imperative Version: Implement the same functionality using loops and mutable variables (if necessary).
+Part 2: Code Implementation
+
+Write both the functional and imperative versions of the program based on the chosen task. Use Haskell for your implementation.
+
+Ensure that your code is well-documented and follows best practices for each paradigm. Make comments where necessary to explain your code.
+
+Part 3: Comparison Report
+
+Prepare a report that compares the two versions of your program based on the following criteria:
+
+Code Structure: Describe the structure of the code in both the functional and imperative versions. Highlight any significant differences in how the code is organized.
+
+Readability: Assess the readability of each version. Comment on the clarity of the code, variable naming, and overall readability.
+
+Maintainability: Discuss the ease of maintaining each version of the code. Consider factors like modifiability, bug-fixing, and extensibility.
+
+Conciseness: Compare the length and verbosity of code in both versions. Does one version require significantly fewer lines of code?
+
+Performance: If applicable, briefly discuss the performance of each version. Are there any noticeable differences in execution speed or resource usage?
+
+Part 4: Submission
+
+Submit the following:
+
+a. Your Haskell code for both the functional and imperative versions of the program.
+
+b. The comparison report as a document (e.g., PDF) summarizing the differences between the two versions.
+
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and functionality of both the functional and imperative versions of the program.
+
+Clarity and documentation of the code.
+
+Quality of the comparison report, including the depth of analysis and insights provided.
+
+Adherence to Haskell best practices and coding standards.

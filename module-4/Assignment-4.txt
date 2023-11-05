@@ -1,0 +1,60 @@
+Working with IO Monad
+Objective: To understand the IO monad and its role in input/output operations.
+
+Task: In this assignment, students will explore the IO monad, a crucial concept in Haskell for handling input and output operations. They will create a simple interactive program in Haskell that takes user input and produces output using the IO monad. Students should use monadic operations to sequence IO actions effectively.
+
+Instructions:
+
+Part 1: Understanding the IO Monad
+
+Scenario:
+
+In Haskell, the IO monad is used to manage input and output operations, making Haskell programs capable of interacting with the external world. Understanding how to work with the IO monad is essential for building practical applications.
+
+Your Task:
+
+Your task is to create a simple interactive program in Haskell that demonstrates the use of the IO monad. The program should take user input, perform some computation or action, and produce output. This assignment aims to help you understand how to sequence IO actions using monadic operations.
+
+Part 2: Interactive Program Implementation
+
+Choose a Simple Task:
+
+Select a straightforward task that requires user input and generates output. For example, you can create a program that calculates the square of a number entered by the user, converts temperature units, or simulates a basic quiz.
+
+Implement the Interactive Program:
+
+Write a Haskell program that takes user input using getLine, performs the desired computation or action, and prints the result using putStrLn. Ensure that you structure your program using the IO monad effectively.
+
+Part 3: Testing and Validation
+
+Test your interactive program with various input scenarios to ensure that it behaves correctly.
+
+Include test cases that cover different aspects of your program's functionality.
+
+Part 4: Documentation and Explanation
+
+Document your Haskell code thoroughly, including comments and explanations of how the IO monad is used in your program.
+
+Write a report that includes the following:
+
+A brief description of the chosen task for your interactive program.
+An explanation of how you used the IO monad to handle user input and output operations.
+Details of the testing and validation process, including any issues encountered and how you addressed them.
+Part 5: Submission
+
+Submit your Haskell code for the interactive program, including its implementation, along with a report that contains your documentation and explanations.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct and well-structured implementation of the interactive program using the IO monad.
+
+Quality and clarity of code documentation and comments, especially in explaining how the IO monad is used in the program.
+
+Effectiveness of testing and validation, including a discussion of the results and how the program behaves in different input scenarios.
+
+Clear and concise explanations in the report about the chosen task and the use of the IO monad in the program.
+
+
+
+

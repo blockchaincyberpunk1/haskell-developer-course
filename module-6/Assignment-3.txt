@@ -1,0 +1,67 @@
+Command-Line File Manager
+Objective: To create a command-line file manager using Haskell.
+
+Task: In this assignment, you will develop a command-line file manager application in Haskell. The file manager should provide basic file and directory manipulation functionalities, allowing users to navigate directories, list files, create, delete, and move files and folders, and display file details.
+
+Instructions:
+
+Part 1: Application Requirements
+
+Your command-line file manager should support the following operations:
+
+Navigating directories: Users should be able to change the current working directory and navigate to parent and child directories.
+
+Listing files and directories: Users should be able to view the contents of the current directory, including file names and subdirectories.
+
+Creating files and directories: Users should be able to create new files and folders within the current directory.
+
+Deleting files and directories: Users should be able to delete files and directories, including non-empty directories.
+
+Moving or renaming files and directories: Users should be able to move files and folders to other locations or rename them.
+
+Displaying file details: Users should be able to view detailed information about a specific file, including its size, permissions, and modification date.
+
+Part 2: Implementation
+
+Develop your Haskell application to fulfill the requirements mentioned above. Pay attention to the following:
+
+Implement directory and file manipulation functions using Haskell's built-in libraries.
+
+Provide a user-friendly command-line interface for users to interact with the file manager.
+
+Handle errors gracefully, providing meaningful error messages when operations fail.
+
+Part 3: User Interaction
+
+Implement a user-friendly command-line interface that allows users to perform the supported file and directory operations.
+Part 4: Testing and Verification
+
+Thoroughly test your file manager application with various scenarios to ensure correct functionality. Test cases should include creating, deleting, moving, and listing files and directories.
+Part 5: Documentation and Report
+
+Document your Haskell code with comments, explaining the functionality of various components.
+
+Write a brief report describing your file manager, including any challenges you faced and how you overcame them.
+
+Part 6: Submission
+
+Submit your Haskell code along with the report describing your implementation and the testing results.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct and efficient implementation of the command-line file manager application.
+
+Adherence to the specified application requirements, including accurate file and directory manipulation.
+
+User-friendly command-line interface with clear instructions and error handling.
+
+Thorough testing, including scenarios covering all supported file and directory operations.
+
+Quality of the report, providing insights into your implementation process and any challenges faced.
+
+Overall clarity, readability, and correctness of your Haskell code.
+
+
+
+

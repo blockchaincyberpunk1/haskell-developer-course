@@ -1,0 +1,58 @@
+Integrating Type Classes, Lazy Evaluation, and Infinite Data
+Objective: To integrate various advanced concepts in Haskell, including type classes, lazy evaluation, and infinite data structures.
+
+Task: In this assignment, you will challenge yourself to solve a complex computational problem that requires the integration of type classes, lazy evaluation, and infinite data structures in Haskell. This assignment will test your mastery of advanced Haskell concepts.
+
+Instructions:
+
+Part 1: Problem Statement
+
+The problem you need to solve involves generating and processing infinite sequences of data efficiently. You can choose one of the following problem scenarios or propose your own:
+
+a. Infinite Prime Generator: Implement an infinite list of prime numbers using a lazy sieve algorithm. Then, design a program that utilizes this infinite list to perform operations such as finding the nth prime number, generating prime factorizations, or solving prime-related computational challenges.
+
+b. Fractal Generation: Create a program that generates fractal images, such as the Mandelbrot or Julia sets, using an infinite data structure to represent the complex plane. Explore the beauty of fractal images and perform operations like zooming, rendering specific regions, or calculating fractal dimensions.
+
+c. Infinite Series: Design a program that explores infinite mathematical series like the Fibonacci sequence, harmonic series, or Taylor series. Utilize these series for computations such as approximating mathematical constants, calculating limits, or solving numerical problems.
+
+Part 2: Implementation
+
+Develop your Haskell program to tackle the chosen problem scenario. Pay special attention to the following aspects:
+
+Efficient generation of infinite data structures using lazy evaluation.
+Utilization of appropriate type classes to enable generic operations on data elements.
+Implementation of algorithms or procedures that work with the infinite data structures to solve the computational challenges.
+Part 3: Testing and Verification
+
+Thoroughly test your program with various inputs and scenarios. Ensure that the program handles infinite data structures gracefully and performs the intended computations accurately.
+Part 4: Documentation and Report
+
+Document your Haskell code extensively with comments to clarify the intricate parts of your implementation, including the integration of type classes, lazy evaluation, and infinite data structures.
+
+Write a comprehensive report that includes the following:
+
+An introduction to the chosen problem scenario, explaining its relevance and complexity.
+Detailed explanations of your implementation strategies, focusing on the use of type classes, lazy evaluation, and infinite data structures.
+Descriptions of the computational challenges you addressed and how you utilized the infinite data structures to solve them.
+Results of testing, including examples and comparisons between different inputs or approaches.
+Reflections on the advanced Haskell concepts employed and the insights gained from tackling this challenging problem.
+Part 5: Submission
+
+Submit your Haskell code along with the report describing your implementation, the problem scenario, your testing, and your reflections.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct and efficient implementation of the chosen problem scenario, showcasing the integration of type classes, lazy evaluation, and infinite data structures.
+
+Clear and comprehensive documentation within your Haskell code, explaining the usage of advanced concepts and the problem-solving strategies.
+
+Implementation of challenging computational tasks that demonstrate your mastery of Haskell's advanced concepts.
+
+Comprehensive testing and performance evaluation, including examples and comparisons.
+
+Quality of the report, including an introduction to the problem scenario, clear explanations of the implementation, computational challenges, and testing results.
+
+Reflections on the advanced Haskell concepts used and insights gained from solving the complex problem.
+
+Overall clarity, readability, and correctness of your Haskell code.

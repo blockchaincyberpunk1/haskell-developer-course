@@ -1,0 +1,44 @@
+Hello, Haskell!
+Objective: To become familiar with Haskell syntax and basic program structure.
+
+Task: In this introductory assignment, students will write a simple Haskell program that prints "Hello, Haskell!" to the console. The goal is to encourage students to explore Haskell's syntax, define functions, and use type annotations where necessary.
+
+Instructions:
+
+Scenario:
+
+Haskell is known for its elegant and concise syntax. This assignment aims to help you take your first steps in writing Haskell code.
+
+Your Task:
+
+Write a Haskell program that does the following:
+
+Prints the message "Hello, Haskell!" to the console.
+a. Function Use (Optional): If you are comfortable with Haskell's function syntax, you can create a function that returns the message and then call that function to print the message.
+
+b. Type Annotations (Optional): Experiment with adding type annotations to your program elements (e.g., function definitions, variables) where you think it's appropriate. This will help you get acquainted with Haskell's strong type system.
+
+Code Implementation:
+
+Write your Haskell code for the program. You can use a code editor or Haskell REPL (Read-Eval-Print Loop) to write and test your code.
+
+Documentation:
+
+Ensure your code is well-documented with comments explaining its purpose and how it achieves the task.
+
+Part 2: Testing and Execution
+
+Test your Haskell program to ensure it successfully prints "Hello, Haskell!" to the console.
+Part 3: Submission
+
+Submit your Haskell program code as a text file or document.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness: The program should successfully print "Hello, Haskell!" to the console.
+
+Code Quality: Code should be well-structured and readable, with meaningful variable and function names.
+
+Documentation: Code should be adequately documented with comments explaining its purpose.
+

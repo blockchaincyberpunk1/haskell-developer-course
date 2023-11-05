@@ -1,0 +1,59 @@
+Community Forum Participation
+Objective: To engage with the Haskell community through online forums.
+
+Task: In this assignment, you will actively participate in the Haskell community by joining and contributing to Haskell-related online forums or community platforms. Engaging with the community is essential to learning and staying updated with Haskell's latest developments and best practices. You will ask questions, provide answers, or join discussions related to Haskell programming.
+
+Instructions:
+
+Choose a Haskell-related online forum or community platform to participate in. Some popular options include:
+
+Haskell Reddit
+Haskell Discourse
+Haskell Cafe Mailing List
+Sign up or create an account on your chosen platform if you haven't already.
+
+Over a specified duration (e.g., one month), actively engage with the community. Your engagement can include the following:
+
+Asking Questions: If you have doubts, questions, or face challenges while working with Haskell, don't hesitate to ask the community for help. Formulate clear and concise questions and provide context if necessary.
+
+Providing Answers: If you come across questions from other community members that you can answer, share your knowledge and expertise. Be helpful and provide detailed responses.
+
+Joining Discussions: Participate in ongoing discussions or debates related to Haskell topics that interest you. Share your thoughts, insights, and experiences.
+
+Sharing Resources: If you discover valuable Haskell resources, such as tutorials, articles, or libraries, share them with the community.
+
+Summarize your contributions and interactions during the assigned duration. Provide details of the questions you asked, answers you provided, discussions you joined, and any insights gained.
+
+Write a reflective report on your community participation experience. Include the following:
+
+Your overall impressions of the community platform you chose.
+Any interesting or valuable insights you gained from discussions or responses.
+How community engagement has benefited your understanding of Haskell.
+Whether you faced any challenges or encountered any notable moments during your participation.
+Part 1: Community Engagement
+
+Your primary task is to actively engage with the Haskell community platform you've chosen. Spend time each week participating in discussions, asking questions, and contributing where possible.
+
+Part 2: Summarization
+
+Compile a summary of your contributions and interactions during the assigned duration. Organize your contributions into categories such as questions asked, answers provided, discussions joined, and resources shared.
+
+Part 3: Reflective Report
+
+Write a reflective report (approximately 500 words) based on your community participation experience. Reflect on how engaging with the Haskell community has contributed to your learning and understanding of Haskell programming.
+
+Part 4: Submission
+
+Submit your summary of contributions, reflective report, and any additional documentation as required by your course instructor.
+
+Evaluation Criteria:
+
+Your community forum participation assignment will be evaluated based on the following criteria:
+
+Active Engagement: The extent to which you actively participated in the Haskell community platform by asking questions, providing answers, and joining discussions.
+
+Quality of Contributions: The quality and relevance of your questions, answers, and contributions to discussions.
+
+Insights Gained: The valuable insights or knowledge you gained from your interactions with the community.
+
+Reflective Report: The quality and depth of your reflective report, including your ability to articulate how community engagement benefited your understanding of Haskell.

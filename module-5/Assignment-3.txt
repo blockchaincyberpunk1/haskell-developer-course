@@ -1,0 +1,51 @@
+Lazy Evaluation in Action
+Objective: To explore lazy evaluation in Haskell.
+
+Task: In this assignment, you will design a Haskell program that takes advantage of lazy evaluation to optimize computation. Lazy evaluation is a key feature of Haskell, and it allows you to delay the evaluation of expressions until their values are actually needed.
+
+Instructions:
+
+Part 1: Problem Selection
+
+Choose one of the following problems for your assignment. Each problem requires you to implement a solution that utilizes lazy evaluation to optimize computation.
+
+a. Lazy Fibonacci Sequence: Implement a Haskell program that generates Fibonacci numbers lazily. Traditional Fibonacci sequences can lead to exponential time complexity. Use lazy evaluation to make the computation more efficient.
+
+b. Lazy List Processing: Implement a Haskell program that processes lists lazily. You can choose a specific list operation (e.g., filtering, mapping, or folding) and demonstrate how lazy evaluation improves efficiency in dealing with large or infinite lists.
+
+Part 2: Implementation
+
+Develop your Haskell program to solve the chosen problem. Utilize the concept of lazy evaluation to minimize unnecessary computations. Be sure to include comments and explanations in your code to clarify how you are leveraging lazy evaluation.
+Part 3: Testing and Verification
+
+Test your program with various inputs and evaluate its performance, especially when dealing with large or infinite data structures. Compare the efficiency of your lazy evaluation approach to non-lazy alternatives.
+Part 4: Documentation and Report
+
+Document your Haskell code with comments to explain the implementation details and the role of lazy evaluation in your solution.
+
+Write a report that includes the following:
+
+An introduction to the problem you chose and why lazy evaluation is beneficial in this context.
+An explanation of how you utilized lazy evaluation in your program, including any lazy data structures or expressions.
+A detailed description of your testing process and the results, including comparisons with non-lazy solutions.
+Any challenges you faced during the implementation and how you addressed them.
+Part 5: Submission
+
+Submit your Haskell code along with the report describing your implementation and the results of your testing.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct and efficient implementation of the chosen problem using lazy evaluation.
+
+Clear and concise documentation within your Haskell code, explaining the role of lazy evaluation in your solution.
+
+Comprehensive testing and performance evaluation, including comparisons with non-lazy alternatives.
+
+Quality of the report, including an introduction to the problem, clear explanations of the use of lazy evaluation, and a detailed description of testing and results.
+
+Overall clarity, readability, and correctness of your Haskell code.
+
+
+
+

@@ -1,0 +1,53 @@
+List Comprehensions
+Objective: To explore list comprehensions in Haskell for concise list manipulation.
+
+Task: In this assignment, students will delve into the powerful concept of list comprehensions in Haskell. They will work with a list of numbers and use list comprehensions to create new lists that meet specific criteria. This assignment aims to reinforce the understanding of list comprehensions as a concise way to perform list manipulation tasks.
+
+Instructions:
+
+Part 1: List Comprehensions
+
+Scenario:
+
+List comprehensions are a convenient and expressive feature in Haskell for generating lists based on existing lists. In this assignment, you will use list comprehensions to create new lists from a given list of numbers.
+
+Your Task:
+
+You are required to create a Haskell program that performs the following tasks:
+
+a. Task 1: Filtering Even Numbers
+
+Implement a list comprehension that filters even numbers from a given list of integers.
+b. Task 2: Squaring Elements
+
+Implement a list comprehension that squares each element of a given list of integers.
+c. Task 3: Generating Pairs
+
+Implement a list comprehension that generates pairs of numbers from two lists based on a certain condition (e.g., pairs where the sum of elements is even).
+Part 2: Code Implementation
+
+Write the Haskell code for the program, including the list comprehensions for each task.
+
+Document your code with comments explaining how each list comprehension works, including the criteria used for filtering or generating pairs.
+
+Part 3: Testing and Validation
+
+Test your list comprehensions with various input lists and verify that they produce the expected results.
+
+Include test cases that cover different scenarios, such as lists with different lengths and contents.
+
+Part 4: Submission
+
+Submit your Haskell program code along with a report that includes the following:
+A description of each list comprehension task and the criteria used.
+The results of testing the list comprehensions with various input lists.
+Any observations or insights gained from working with list comprehensions.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and functionality of the list comprehensions for each task.
+
+Quality and clarity of code documentation and comments, especially in explaining how each list comprehension works.
+
+Effectiveness of testing and validation, including a discussion of the results and any unexpected outcomes.

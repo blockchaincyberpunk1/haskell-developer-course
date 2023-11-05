@@ -1,0 +1,64 @@
+Open-Source Contribution
+Objective: To contribute to open-source Haskell projects.
+
+Task: In this assignment, you will actively participate in the open-source Haskell community by making a meaningful contribution to an existing Haskell project. Open source contributions provide you with hands-on experience, allow you to collaborate with experienced developers, and benefit the broader Haskell community.
+
+Instructions:
+
+Select a Haskell Project: Choose an open-source Haskell project that interests you. You can explore projects on platforms like GitHub, GitLab, or Bitbucket. Ensure the project has open issues or features suitable for contribution.
+
+Contribution Selection: Identify a specific issue or feature you'd like to work on within the selected project. This could involve fixing a bug, adding a new feature, or improving project documentation. The issue you choose should align with your skills and interests.
+
+Fork the Repository: Fork the project's repository on the version control platform (e.g., GitHub) to create a copy under your account. This copy will serve as your workspace for making changes.
+
+Implement the Contribution: Work on your chosen issue or feature. Follow best practices for code quality, documentation, and coding standards. Ensure that your changes align with the project's guidelines and coding style.
+
+Testing and Quality Assurance: Thoroughly test your contribution to ensure it functions correctly and does not introduce new issues. Follow any testing guidelines provided by the project.
+
+Documentation: If your contribution involves code changes, update the project's documentation accordingly. Ensure that any new features or changes are well-documented.
+
+Create a Pull Request (PR): Once your contribution is ready, create a pull request from your forked repository to the original project repository. Provide a clear and concise description of your changes, the problem they solve, and any relevant context.
+
+Engage in Discussion: Be prepared to engage in discussions with maintainers and other contributors regarding your PR. Address any feedback or issues raised promptly and professionally.
+
+Review and Approval: After addressing feedback and ensuring your contribution meets the project's standards, it may be reviewed and approved by maintainers. Be patient during this process.
+
+Merge and Celebrate: If your contribution is accepted and merged into the project, celebrate your achievement as an open-source contributor. You've made a valuable contribution to the Haskell community!
+
+Part 1: Contribution Selection
+
+Select an open-source Haskell project and a specific issue or feature to work on. Ensure that you understand the issue's requirements and the project's contribution guidelines.
+
+Part 2: Implementation
+
+Work on your chosen contribution. Write clear, well-documented code that adheres to Haskell best practices.
+
+Part 3: Testing and Documentation
+
+Test your contribution thoroughly and update project documentation as necessary.
+
+Part 4: Create a Pull Request (PR)
+
+Create a PR from your forked repository to the original project repository. Provide a descriptive and informative PR message.
+
+Part 5: Engagement
+
+Engage in discussions and address feedback promptly and professionally.
+
+Part 6: Submission
+
+Submit a report that includes details of your chosen project, the issue you worked on, the changes you made, the testing process, any discussions or feedback received, and the final status of your contribution.
+
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Contribution Quality: The quality and impact of your contribution to the open-source Haskell project.
+
+Documentation: The accuracy and completeness of any documentation updates related to your contribution.
+
+Testing: The thoroughness of your testing process to ensure your contribution works as intended.
+
+PR and Engagement: Effective communication and engagement in discussions related to your pull request.
+
+Report: The clarity and completeness of your report, including details of the project, issue, changes made, discussions, and the final status of your contribution.

@@ -1,0 +1,59 @@
+Exploring Maybe Monad
+Objective: To understand the Maybe monad and its use in handling potentially missing values.
+
+Task: In this assignment, students will explore the concept of the Maybe monad in Haskell, which is a powerful tool for handling potentially missing values. The Maybe monad helps ensure robust and safe code by allowing for explicit handling of cases where a value may or may not exist. Students will be presented with a problem that involves processing a list of values, some of which may be missing (represented as Nothing in Haskell). Their task is to use the Maybe monad to safely perform operations on these values and handle missing values gracefully.
+
+Instructions:
+
+Part 1: Understanding the Maybe Monad
+
+Scenario:
+
+The Maybe monad is commonly used in Haskell to deal with situations where a value may or may not be present. It helps avoid null or undefined errors by providing a structured way to handle missing values.
+
+Your Task:
+
+You are required to complete a series of programming tasks that involve using the Maybe monad in Haskell:
+
+a. Task 1: Handling Missing Values
+
+Implement a Haskell program that processes a list of values, some of which may be missing (Nothing), using the Maybe monad. Your program should gracefully handle missing values without causing runtime errors.
+b. Task 2: Mapping and Transformations
+
+Create a Haskell program that uses the Maybe monad to map over a list of values and apply a transformation function. Ensure that missing values are skipped, and the resulting list contains only valid results.
+c. Task 3: Combining Maybe Values
+
+Develop a Haskell program that combines two Maybe values using a binary function. Ensure that the combination is performed only if both values are present, and return Nothing if either value is missing.
+Part 2: Code Implementation
+
+Write the Haskell code for each of the tasks described above, including the use of the Maybe monad for handling missing values.
+
+Document your code with comments explaining how the Maybe monad is used to handle missing values in each task.
+
+Part 3: Testing and Validation
+
+Test your Haskell program for each task with various lists of values, including cases with missing values, to ensure that it behaves correctly and safely.
+
+Include test cases that cover different scenarios, such as different lists, transformation functions, and combinations of Maybe values.
+
+Part 4: Real-World Application
+
+Apply the concept of the Maybe monad to a real-world scenario or use case where handling missing values is essential. Write a Haskell program that demonstrates the practical use of the Maybe monad in such a scenario.
+Part 5: Submission
+
+Submit your Haskell program code for each task, including the use of the Maybe monad, along with a report that includes the following:
+Descriptions of each task and how the Maybe monad is utilized to handle missing values.
+The results of testing the tasks with various lists and scenarios.
+A description of the real-world application where the Maybe monad is applied.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct implementation of the Haskell program, including the effective use of the Maybe monad to handle missing values.
+
+Quality and clarity of code documentation and comments, especially in explaining how the Maybe monad is used in each task.
+
+Effectiveness of testing and validation, including a discussion of the results and handling of various scenarios.
+
+Creativity and practicality of the real-world application of the Maybe monad.
+

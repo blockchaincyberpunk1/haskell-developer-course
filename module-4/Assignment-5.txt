@@ -1,0 +1,56 @@
+Exception Handling with Monad Transformers (Optional)
+Objective: To introduce the concept of monad transformers for more complex error handling.
+
+Task: This assignment is designed for advanced students who want to explore more complex error handling scenarios in Haskell. You will be provided with a problem where you need to handle multiple layers of monads, such as combining the Maybe and IO monads or using monad transformers like ExceptT for error handling in a more complex application.
+
+Instructions:
+
+Part 1: Understanding Monad Transformers
+
+Scenario:
+
+In Haskell, monad transformers are a powerful tool for handling complex error scenarios and combining multiple monads. They allow you to work with monads like MaybeT, EitherT, and StateT to manage more intricate computations.
+
+Your Task:
+
+Your task is to tackle a problem that requires you to use monad transformers for error handling. This assignment will challenge you to work with multiple layers of monads, such as combining the Maybe and IO monads or using monad transformers like ExceptT.
+
+Part 2: Problem Description
+
+Problem Statement:
+
+You will be given a problem statement that requires the use of monad transformers for error handling. This problem may involve reading and writing files, performing computations, and handling various error scenarios.
+
+Implement the Solution:
+
+Write a Haskell program that addresses the problem statement using appropriate monad transformers and monadic operations. You should effectively manage and propagate errors while maintaining clean and readable code.
+
+Part 3: Testing and Validation
+
+Test your solution with various input scenarios and error cases to ensure it behaves correctly.
+
+Include test cases that cover different aspects of your program's functionality, including both success and failure cases.
+
+Part 4: Documentation and Explanation
+
+Document your Haskell code thoroughly, including comments and explanations of how you used monad transformers and handled errors in your program.
+
+Write a detailed report that includes the following:
+
+A summary of the problem statement you were tasked with solving.
+An explanation of how you used monad transformers, including any challenges you faced.
+Details of the testing and validation process, including the results and any notable observations or insights.
+Part 5: Submission
+
+Submit your Haskell code for the solution to the problem statement, including its implementation, along with a report that contains your documentation and explanations.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct and well-structured implementation of the solution using monad transformers and appropriate monadic operations.
+
+Quality and clarity of code documentation and comments, particularly in explaining how you used monad transformers and handled errors in your program.
+
+Effectiveness of testing and validation, including a discussion of the results and how the program behaves in different scenarios.
+
+Clear and comprehensive explanations in the report about the problem statement, the use of monad transformers, and any challenges faced during the assignment.

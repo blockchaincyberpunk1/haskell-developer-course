@@ -1,0 +1,53 @@
+Recursive List Operations
+Objective: To practice recursive list processing in Haskell.
+
+Task: In this assignment, students will gain hands-on experience with recursive programming in Haskell. They will be tasked with implementing a set of common list operations using recursion. These operations include calculating the sum, product, length, and reverse of a list. Students should utilize recursive patterns and define appropriate base cases for their functions.
+
+Instructions:
+
+Part 1: Recursive List Operations
+
+Scenario:
+
+Recursive programming is a fundamental concept in functional languages like Haskell. In this assignment, you will explore how to perform basic list operations using recursion.
+
+Your Task:
+
+You are required to create a Haskell program that performs the following tasks:
+
+a. Task 1: Sum of List Elements
+
+Implement a recursive function, recursiveSum, that calculates the sum of all elements in a list.
+b. Task 2: Product of List Elements
+
+Implement a recursive function, recursiveProduct, that calculates the product of all elements in a list.
+c. Task 3: Length of List
+
+Implement a recursive function, recursiveLength, that calculates the length (number of elements) of a list.
+d. Task 4: Reverse a List
+
+Implement a recursive function, recursiveReverse, that reverses the elements of a list.
+Part 2: Code Implementation
+
+Write the Haskell code for the program, implementing each recursive function as described in the tasks above.
+
+Document your code with comments explaining how each recursive function works, including the recursive patterns and base cases.
+
+Part 3: Testing and Validation
+
+Test your recursive functions by applying them to different example lists, showcasing their functionality and correctness.
+
+Include test cases that cover various scenarios, such as empty lists, lists with one element, and lists with multiple elements.
+
+Part 4: Submission
+
+Submit your Haskell program code along with a document describing your testing process, including test cases and their outcomes.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and functionality of the recursive list operations (recursiveSum, recursiveProduct, recursiveLength, and recursiveReverse).
+
+Quality and clarity of code documentation and comments, especially in explaining the recursive patterns and base cases.
+
+Effectiveness of test cases in validating the correctness of the program and demonstrating the functionality of the recursive list operations.

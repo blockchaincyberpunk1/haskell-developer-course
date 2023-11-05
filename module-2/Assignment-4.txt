@@ -1,0 +1,55 @@
+Type Classes and Polymorphism
+Objective: To explore type classes and polymorphism in Haskell.
+
+Task: In this assignment, students will delve into Haskell's type classes and polymorphic capabilities. They will define custom data types and create type class instances for common operations such as equality, comparison, and printing. Finally, students will use these custom types and type class instances to demonstrate polymorphic behavior in their Haskell program.
+
+Instructions:
+
+Part 1: Type Classes and Polymorphism
+
+Scenario:
+
+Haskell's type classes allow you to define common behavior for various data types. In this assignment, you will explore how to create custom data types and type class instances to define such behavior.
+
+Your Task:
+
+You are required to create a Haskell program that performs the following tasks:
+
+a. Task 1: Custom Data Types
+
+Define at least two custom data types (e.g., Person, Product, Point) with fields that represent relevant attributes. These data types should not derive any built-in type class instances (e.g., Eq, Ord, Show).
+b. Task 2: Type Class Definitions
+
+Create custom type classes (e.g., CustomEq, CustomOrd, CustomShow) with functions that define common behavior for the data types. Each type class should include at least one function.
+c. Task 3: Type Class Instances
+
+Implement type class instances for the custom data types, defining how the functions from the type classes should behave for each data type.
+For example, you can create an instance CustomEq Person that defines how to check equality between two Person instances.
+d. Task 4: Polymorphic Functions
+
+Write polymorphic functions that accept arguments of the custom data types and utilize the type class instances for common operations.
+Demonstrate how these polymorphic functions work with different data types that have the same type class instances.
+Part 2: Code Implementation
+
+Write the Haskell code for the program, implementing each task in order. Use appropriate variable names and data types.
+
+Document your code with comments explaining how each part of the program works.
+
+Part 3: Testing and Validation
+
+Test your program by creating instances of the custom data types and using the polymorphic functions to validate the behavior defined by the type class instances.
+
+Include test cases that cover different scenarios and combinations of custom data types.
+
+Part 4: Submission
+
+Submit your Haskell program code along with a document describing your testing process, including test cases and their outcomes.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and functionality of the program, including the proper implementation of type classes and type class instances.
+
+Quality and clarity of code documentation and comments.
+
+Effectiveness of test cases in validating the correctness of the program and demonstrating polymorphic behavior.

@@ -1,0 +1,55 @@
+Parallel Matrix Multiplication
+Objective: To explore parallelism in Haskell.
+
+Task: In this assignment, you will delve into the world of parallelism in Haskell. Your task is to implement a parallel matrix multiplication algorithm in Haskell using parallel strategies provided by libraries like Control.Parallel. You should aim to demonstrate the speedup achieved through parallel processing compared to a sequential matrix multiplication algorithm.
+
+Instructions:
+
+Implement a Haskell program that performs matrix multiplication sequentially.
+
+Implement a parallel matrix multiplication algorithm in Haskell using parallel strategies, such as par, pseq, or other parallelization techniques provided by libraries like Control.Parallel.
+
+Create a mechanism to generate random matrices of varying sizes. These matrices should be large enough to demonstrate the advantages of parallel processing.
+
+Measure and record the execution time for both sequential and parallel matrix multiplication approaches for matrices of different sizes.
+
+Use proper timing techniques to calculate the speedup achieved through parallel processing. Speedup is defined as the ratio of the execution time for the sequential algorithm to the execution time for the parallel algorithm.
+
+Present your results graphically using a plotting library or tool of your choice. Graphs should clearly show the speedup gained as the matrix size increases.
+
+Include comments in your Haskell code to explain the algorithms, strategies, and any optimizations you applied.
+
+Part 1: Example Scenario
+
+Here is an example scenario to help you get started:
+
+You need to multiply two large matrices, A and B, to obtain the product matrix C. Instead of performing the multiplication sequentially, you decide to parallelize the computation. You divide the matrix multiplication into submatrices and use parallel strategies to multiply them concurrently.
+
+Part 2: Testing and Documentation
+
+Thoroughly test your Haskell program to ensure that it functions correctly and provides the expected speedup when using parallel processing.
+
+Document your Haskell code with comments explaining the algorithms, parallelization strategies, and any optimizations you applied.
+
+Part 3: Submission
+
+Prepare a report that describes your parallel matrix multiplication implementation, including the algorithms used, the approach taken for parallelization, and the results obtained.
+
+Include graphs or visual representations of the speedup achieved for varying matrix sizes.
+
+Evaluation Criteria:
+
+Your parallel matrix multiplication assignment will be evaluated based on the following criteria:
+
+Correctness: The correctness of your parallel matrix multiplication algorithm.
+
+Speedup: The degree of speedup achieved through parallel processing compared to the sequential algorithm.
+
+Matrix Generation: Proper generation of random matrices for testing.
+
+Testing: Thorough testing to ensure the correctness and efficiency of the parallel algorithm.
+
+Documentation: Quality documentation in your Haskell code and the clarity of your report.
+
+Presentation: The effectiveness of your graphical representations of speedup.
+

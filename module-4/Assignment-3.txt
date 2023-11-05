@@ -1,0 +1,58 @@
+Creating Custom Monads
+Objective: To explore the concept of custom monads in Haskell.
+
+Task: In this assignment, students will dive deeper into the world of monads by creating their custom monad for a specific domain or use case. Custom monads allow programmers to encapsulate specific types of computations or effects, making code more expressive and maintainable. Students will design and implement a custom monad and write functions that operate within this monad, showcasing how it encapsulates a particular type of computation.
+
+Instructions:
+
+Part 1: Understanding Custom Monads
+
+Scenario:
+
+In Haskell, monads provide a way to encapsulate certain types of computations or effects, such as state, error handling, or non-determinism. Custom monads can be created to represent domain-specific computations, making the code more expressive and easier to reason about.
+
+Your Task:
+
+You are required to design and implement a custom monad for a specific domain or use case. This custom monad should encapsulate a particular type of computation or effect relevant to the chosen domain. Additionally, you should write Haskell functions that operate within this custom monad to demonstrate its usefulness.
+
+Part 2: Custom Monad Implementation
+
+Choose a Domain:
+
+Select a domain or use case for which you want to create a custom monad. Examples of domains include database interactions, game logic, configuration management, or any other area where a specific type of computation is prevalent.
+
+Define the Custom Monad:
+
+Implement the custom monad using Haskell's monad type classes. Define the monadic operations and any specific behavior relevant to your chosen domain.
+
+Write Functions:
+
+Create Haskell functions that operate within the custom monad. These functions should perform computations or effects specific to the chosen domain and demonstrate how the custom monad encapsulates this behavior.
+
+Part 3: Testing and Validation
+
+Test your custom monad and the functions that use it with various input scenarios to ensure that it behaves correctly within the chosen domain.
+
+Include test cases that cover different aspects of your custom monad's behavior and functionality.
+
+Part 4: Real-World Application
+
+Apply your custom monad to a real-world scenario or use case within the chosen domain. Write a Haskell program that demonstrates the practical use of your custom monad and its benefits in this context.
+Part 5: Submission
+
+Submit your Haskell code for the custom monad, including its implementation and functions that use it, along with a report that includes the following:
+A description of the chosen domain or use case for the custom monad.
+An explanation of how the custom monad is designed and how it encapsulates the chosen computation or effect.
+The results of testing the custom monad and the functions within it.
+A description of the real-world application where the custom monad is applied and its practical significance.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct and well-structured implementation of the custom monad, including the definition of monadic operations and any specific behavior relevant to the chosen domain.
+
+Quality and clarity of code documentation and comments, especially in explaining how the custom monad is used and its benefits.
+
+Effectiveness of testing and validation, including a discussion of the results and how the custom monad behaves in different scenarios.
+
+Creativity and practicality of the real-world application of the custom monad within the chosen domain.

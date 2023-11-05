@@ -1,0 +1,61 @@
+Building Your First Haskell CLI Application: A Step-by-Step Guide
+Congratulations! You've taken your first steps into the world of Haskell CLI development. Now, let's take that knowledge and dive deeper into building a practical CLI application from scratch. In this article, tailored for beginner Haskell coders like you, we'll walk through the process of implementing a task manager CLI application, showcasing key concepts such as data manipulation, user interaction, and modular code design.
+
+Defining the Application's Functionality
+Imagine you're building a task manager CLI application—an essential tool for organizing your tasks and staying productive. Throughout this article, we'll focus on implementing the core functionalities of this application step by step. These functionalities will include adding tasks, listing tasks, marking tasks as completed, and removing tasks.
+
+Step 1: Setting Up the Project
+Before diving into the implementation, let's set up the project structure. Create a directory for your project and organize it using modules. For example, you can have modules for task management, user interaction, and the main entry point of the application. Modular design enhances maintainability and readability, making your codebase easier to manage as it grows.
+
+Step 2: Data Representation
+In Haskell, data representation is crucial. For our task manager application, let's define a data structure to represent a task. We'll create a Task type that contains fields for the task's description and completion status. Here's a snippet of how you can define the Task type:
+
+haskell
+Copy code
+data Task = Task
+    { description :: String
+    , completed   :: Bool
+    }
+Step 3: Adding Tasks
+Now, let's implement the functionality to add tasks to our task manager. We'll create a function that takes the description of the task as an argument and returns an updated task list. To manage the list of tasks, you can use a simple list data structure. Here's a simplified version of the code:
+
+haskell
+Copy code
+addTask :: [Task] -> String -> [Task]
+addTask tasks desc = tasks ++ [Task desc False]
+Step 4: Listing Tasks
+Listing tasks is an essential feature of our task manager. We'll implement a function to display all tasks along with their descriptions and completion status. Here's how you can achieve this:
+
+haskell
+Copy code
+listTasks :: [Task] -> IO ()
+listTasks tasks = mapM_ printTask tasks
+    where
+        printTask (Task desc completed) = putStrLn $ "[" ++ status ++ "] " ++ desc
+            where status = if completed then "x" else " "
+Step 5: Marking Tasks as Completed
+To keep track of completed tasks, we'll implement a function that toggles the completion status of a task. This way, users can mark tasks as completed or revert them to their original state. Here's a snippet of how you can achieve this:
+
+haskell
+Copy code
+toggleCompletion :: [Task] -> Int -> [Task]
+toggleCompletion tasks index = map updateTask (zip tasks [0..])
+    where
+        updateTask (task, i)
+            | i == index = task { completed = not (completed task) }
+            | otherwise  = task
+Step 6: Removing Tasks
+Lastly, let's implement the functionality to remove tasks from the list. We'll create a function that takes the index of the task to be removed and returns an updated task list. Here's a simplified version of how you can implement this feature:
+
+haskell
+Copy code
+removeTask :: [Task] -> Int -> [Task]
+removeTask tasks index = take index tasks ++ drop (index + 1) tasks
+Bringing It All Together
+With the core functionalities implemented, it's time to bring everything together in the main entry point of the application. This is where user interaction and command parsing come into play. You can use the techniques you've learned earlier, like reading user input and displaying prompts. As users interact with the CLI, you'll call the corresponding functions to perform the desired actions on the task list.
+
+Embracing Modular Design
+Throughout this journey, you've witnessed the power of modular design. By structuring your codebase into separate modules, you've achieved better organization, maintainability, and readability. Each module focuses on a specific aspect of the application, allowing you to make changes or enhancements without affecting the entire codebase.
+
+Conclusion
+Congratulations! You've successfully built a practical Haskell CLI application—a task manager that allows users to add tasks, list tasks, mark tasks as completed, and remove tasks. Along the way, you've explored essential concepts such as data representation, user interaction, and modular code design. This project not only solidified your understanding of Haskell but also provided you with a valuable experience in building real-world applications. As you continue your Haskell journey, you'll find endless opportunities to create innovative and impactful CLI tools that make your programming adventures even more exciting.

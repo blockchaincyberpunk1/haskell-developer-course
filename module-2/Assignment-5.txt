@@ -1,0 +1,51 @@
+Functional Programming with Lists
+Objective: To apply functional programming concepts to list manipulation in Haskell.
+
+Task: In this assignment, students will deepen their understanding of functional programming by implementing common list operations from scratch in Haskell. They will create their own versions of functions such as map, filter, and foldr. Students will then utilize these custom functions to perform various transformations on lists of data.
+
+Instructions:
+
+Part 1: Functional Programming with Lists
+
+Scenario:
+
+Functional programming languages, including Haskell, provide powerful tools for working with lists. In this assignment, you will explore and implement common list operations using functional programming techniques.
+
+Your Task:
+
+You are required to create a Haskell program that performs the following tasks:
+
+a. Task 1: Custom List Operations
+
+Define your own versions of the following list operations:
+myMap: Implement a function similar to map that applies a given function to each element of a list.
+myFilter: Implement a function similar to filter that selects elements from a list based on a given predicate.
+myFoldr: Implement a function similar to foldr (right fold) that combines elements of a list using a binary function and an initial accumulator value.
+b. Task 2: List Transformations
+
+Create example lists of data (e.g., integers, strings, custom data types) for testing your custom list operations.
+Use your custom list operations (myMap, myFilter, and myFoldr) to perform various transformations on these lists. Provide clear examples of how each operation is used.
+Part 2: Code Implementation
+
+Write the Haskell code for the program, implementing each custom list operation and demonstrating its usage with example lists.
+
+Document your code with comments explaining how each part of the program works.
+
+Part 3: Testing and Validation
+
+Test your custom list operations by applying them to different example lists, showcasing their functionality and correctness.
+
+Include test cases that cover various scenarios, such as using different data types or combining multiple list operations.
+
+Part 4: Submission
+
+Submit your Haskell program code along with a document describing your testing process, including test cases and their outcomes.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and functionality of the custom list operations (myMap, myFilter, and myFoldr).
+
+Quality and clarity of code documentation and comments.
+
+Effectiveness of test cases in validating the correctness of the program and demonstrating the functionality of custom list operations.

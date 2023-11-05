@@ -1,0 +1,50 @@
+Factorial Calculation with Recursion
+Objective: To reinforce the concept of recursion in Haskell.
+
+Task: In this assignment, students will practice the concept of recursion in Haskell by implementing a function to calculate the factorial of a given integer. They will also create a non-recursive version of the same function for comparison.
+
+Instructions:
+
+Part 1: Recursive Factorial Calculation
+
+Scenario:
+
+Recursion is a powerful technique in functional programming for solving problems that can be broken down into smaller, similar subproblems. In this assignment, you will explore how to calculate the factorial of an integer using recursion in Haskell.
+
+Your Task:
+
+You are required to create a Haskell program that performs the following tasks:
+
+a. Task 1: Recursive Factorial Calculation
+
+Implement a recursive function, recursiveFactorial, that calculates the factorial of a given non-negative integer n.
+Part 2: Non-Recursive Factorial Calculation
+
+Create a non-recursive version of the factorial calculation function, nonRecursiveFactorial, using Haskell without recursion. This version should provide the same result as the recursive one.
+Part 3: Code Implementation
+
+Write the Haskell code for both the recursive and non-recursive factorial calculation functions.
+
+Document your code with comments explaining how each function works and providing any necessary explanations.
+
+Part 4: Testing and Comparison
+
+Test both the recursive and non-recursive factorial calculation functions with a range of input values, including small and large integers.
+
+Compare the results and execution times of the recursive and non-recursive functions for various inputs.
+
+Part 5: Submission
+
+Submit your Haskell program code along with a report that includes the following:
+A description of the recursive and non-recursive factorial calculation functions.
+The results of testing with various input values and comparisons between the two versions.
+Any observations or insights gained from the assignment.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and functionality of both the recursive and non-recursive factorial calculation functions.
+
+Quality and clarity of code documentation and comments, especially in explaining how each function works.
+
+Effectiveness of testing and comparison between the recursive and non-recursive versions, including a discussion of their performance.

@@ -1,0 +1,63 @@
+Interactive Calculator
+Objective: To develop a command-line calculator in Haskell.
+
+Task: In this assignment, you will create a command-line interactive calculator in Haskell. The calculator should accept mathematical expressions from the user, evaluate them, and display the result.
+
+Instructions:
+
+Part 1: Application Requirements
+
+Your interactive calculator should support the following operations:
+
+Addition (+)
+Subtraction (-)
+Multiplication (*)
+Division (/)
+Exponentiation (^)
+Parentheses for grouping ()
+The calculator should handle both integers and floating-point numbers.
+
+Part 2: Implementation
+
+Develop your Haskell application to fulfill the requirements mentioned above. Pay attention to the following:
+
+Parsing user input: Implement a parser to understand mathematical expressions.
+
+Evaluating expressions: Implement a computation engine that can handle the supported operations and parentheses correctly.
+
+Handling errors: Ensure that your calculator handles invalid inputs gracefully and provides appropriate error messages.
+
+Part 3: User Interaction
+
+Implement a user-friendly command-line interface that prompts users to enter mathematical expressions and displays the results.
+Part 4: Testing and Verification
+
+Thoroughly test your calculator with various mathematical expressions to ensure correct functionality. Test both valid and invalid inputs.
+Part 5: Documentation and Report
+
+Document your Haskell code with comments, explaining the functionality of various components.
+
+Write a brief report describing your calculator, including any challenges you faced and how you overcame them.
+
+Part 6: Submission
+
+Submit your Haskell code along with the report describing your implementation and the testing results.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct and efficient implementation of the interactive calculator application.
+
+Adherence to the specified application requirements, including accurate parsing and evaluation of mathematical expressions.
+
+User-friendly command-line interface with clear instructions and error handling.
+
+Thorough testing, including scenarios with both valid and invalid mathematical expressions.
+
+Quality of the report, providing insights into your implementation process and any challenges faced.
+
+Overall clarity, readability, and correctness of your Haskell code.
+
+
+
+

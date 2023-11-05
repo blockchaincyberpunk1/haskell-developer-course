@@ -1,0 +1,61 @@
+Pure Functions and Testing
+Objective: To understand the concept of pure functions and their benefits.
+
+Task: In this assignment, students will write a set of functions that perform various mathematical operations, ensuring that each function is pure (i.e., no side effects and deterministic). They should then write unit tests for these functions to demonstrate how pure functions make testing easier and more predictable.
+
+Instructions:
+
+Part 1: Pure Functions
+
+Scenario:
+
+Pure functions are a fundamental concept in functional programming. They are functions that have no side effects and always produce the same output for the same input. This assignment aims to help you understand the importance of pure functions in Haskell.
+
+Your Task:
+
+You are required to implement a series of mathematical functions in Haskell, ensuring that each function is pure. You can choose any mathematical operations you like, but the functions should meet the following criteria:
+
+Purity: Each function must be pure, meaning it has no side effects and always produces the same output for the same input.
+
+Deterministic: The functions should be deterministic, ensuring that repeated calls with the same input yield the same result.
+
+Part 2: Code Implementation
+
+Write the Haskell code for the pure mathematical functions you have chosen to implement.
+
+Ensure that your code is well-documented with explanations and comments for each function. Mention why each function is pure and deterministic.
+
+Part 3: Testing and Unit Tests
+
+Create unit tests for your pure functions. Use a testing framework like HUnit or QuickCheck to write test cases.
+
+Test each function with various inputs, ensuring that they produce the expected output.
+
+Part 4: Testing Benefits of Pure Functions
+
+In a separate document (e.g., a report or README file), explain the benefits of using pure functions when testing:
+
+Describe how pure functions make testing easier and more predictable.
+Highlight any challenges or issues you encountered during testing and how pure functions helped overcome them.
+Provide examples of how testing would be more challenging with impure functions (if applicable).
+Part 5: Submission
+
+Submit the following:
+
+a. Your Haskell code for the pure mathematical functions.
+
+b. Unit test cases to validate the correctness of your functions.
+
+c. A document (report or README) explaining the benefits of using pure functions in testing.
+
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and functionality of the pure mathematical functions.
+
+Quality and clarity of code documentation and comments.
+
+Effectiveness of unit tests in validating the pure functions.
+
+Quality of the document explaining the benefits of using pure functions in testing.

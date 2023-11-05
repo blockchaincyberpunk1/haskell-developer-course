@@ -1,0 +1,68 @@
+Pattern Matching and Lists
+Objective: To practice pattern matching and working with lists in Haskell.
+
+Task: In this assignment, students will strengthen their understanding of Haskell's pattern matching capabilities and their skills in list manipulation. They will be tasked with implementing functions that involve pattern matching and recursion on lists. Examples include calculating the length of a list, reversing a list, and finding the maximum element in a list.
+
+Instructions:
+
+Part 1: Pattern Matching and Lists
+
+Scenario:
+
+Pattern matching is a powerful feature in Haskell that allows you to destructure data and perform different actions based on its structure. Lists are a common data structure in functional programming, and pattern matching plays a crucial role in manipulating them.
+
+Your Task:
+
+You are required to implement a set of Haskell functions that operate on lists using pattern matching and recursion. Choose at least three of the following tasks:
+
+a. Task 1: List Length
+
+Implement a function that calculates the length of a list using recursion and pattern matching.
+b. Task 2: List Reversal
+
+Write a function that reverses a list using pattern matching and recursion.
+c. Task 3: Maximum Element
+
+Create a function that finds the maximum element in a list using pattern matching and recursion.
+d. Task 4: List Filtering
+
+Implement a function that filters a list based on a given predicate using pattern matching and recursion.
+e. Task 5: List Concatenation
+
+Write a function that concatenates two lists using pattern matching and recursion.
+Part 2: Code Implementation
+
+Write the Haskell code for the selected tasks, ensuring that each function is implemented using pattern matching and recursion.
+
+Document your code thoroughly with comments explaining the purpose of each function and how pattern matching and recursion are applied.
+
+Part 3: Testing and Validation
+
+Create test cases for each of the implemented functions. Test them with various inputs to validate correctness.
+
+Include edge cases and scenarios that test the robustness of your functions.
+
+Part 4: Complexity Analysis
+
+In a separate document (e.g., a report or README file), provide a brief complexity analysis for each of your functions. Discuss the time and space complexity.
+Part 5: Submission
+
+Submit the following:
+
+a. Your Haskell code for the selected tasks.
+
+b. Test cases to validate the correctness of your functions.
+
+c. A document (report or README) with the complexity analysis of your functions.
+
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and functionality of the functions.
+
+Quality and clarity of code documentation and comments.
+
+Effectiveness of test cases in validating the correctness of the functions.
+
+Quality of the complexity analysis, including time and space complexity.

@@ -1,0 +1,54 @@
+Concurrent Web Scraping
+Objective: To apply concurrency in web scraping.
+
+Task: In this assignment, you will explore the power of concurrency in web scraping using Haskell. Your task is to design and implement a web scraping program that fetches data from multiple web pages concurrently. You should demonstrate how concurrent requests can significantly improve the scraping performance compared to a sequential approach.
+
+Instructions:
+
+Choose a website or set of websites with publicly accessible data for web scraping. You can scrape information such as news articles, product listings, or any other data of interest.
+
+Design a web scraping program in Haskell that is capable of fetching data from the chosen website(s). You may use libraries such as http-conduit for making HTTP requests and html-conduit for parsing HTML content.
+
+Implement two versions of your web scraping program: one that performs scraping sequentially and another that performs scraping concurrently. For concurrent scraping, you should utilize Haskell's concurrency features.
+
+Provide mechanisms to specify the number of concurrent requests to be made during concurrent scraping. This will allow you to experiment with different levels of concurrency.
+
+Measure and record the execution time for both the sequential and concurrent scraping approaches. Ensure that your measurements are accurate and consistent.
+
+Calculate and present the speedup achieved through concurrent web scraping compared to the sequential approach. Speedup is defined as the ratio of the execution time for the sequential scraping to the execution time for the concurrent scraping.
+
+Include comments in your Haskell code to explain the scraping logic, the concurrency approach, and any optimizations you applied.
+
+Part 1: Example Scenario
+
+Here is an example scenario to help you get started:
+
+You are tasked with scraping news articles from a news website that has a large number of articles. You decide to design a web scraping program that fetches articles concurrently, taking advantage of Haskell's concurrency features. You compare the scraping performance of your concurrent solution with a sequential one.
+
+Part 2: Testing and Documentation
+
+Thoroughly test your Haskell program to ensure that it correctly scrapes the desired data from the chosen website(s).
+
+Document your Haskell code with comments explaining the scraping logic, concurrency approach, and optimizations applied.
+
+Part 3: Submission
+
+Prepare a report that describes your web scraping program, including the scraping strategies used, the concurrency approach, and the results obtained.
+
+Include a graph or visual representation of the speedup achieved for different levels of concurrency.
+
+Evaluation Criteria:
+
+Your concurrent web scraping assignment will be evaluated based on the following criteria:
+
+Correctness: The correctness of your web scraping program and the accuracy of the scraped data.
+
+Speedup: The degree of speedup achieved through concurrent scraping compared to the sequential approach.
+
+Concurrency Approach: The effectiveness of your chosen concurrency approach in improving scraping performance.
+
+Testing: Thorough testing to ensure the correctness and efficiency of your web scraping program.
+
+Documentation: Quality documentation in your Haskell code and the clarity of your report.
+
+Presentation: The effectiveness of your graphical representations of speedup.

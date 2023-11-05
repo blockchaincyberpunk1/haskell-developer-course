@@ -1,0 +1,60 @@
+CLI Task Manager
+Objective: To build a command-line task management application using Haskell.
+
+Task: In this assignment, you will create a command-line task management application in Haskell. The application should allow users to add, list, update, and delete tasks, providing a basic but functional task manager.
+
+Instructions:
+
+Part 1: Application Requirements
+
+Your task manager application should support the following commands:
+
+Add: Users can add new tasks to the task list.
+List: Users can view a list of all tasks with their status (e.g., incomplete/complete).
+Update: Users can mark tasks as complete or update task descriptions.
+Delete: Users can delete tasks from the list.
+Quit: Users can exit the application.
+Tasks should have the following attributes:
+
+Task ID (unique identifier)
+Description (textual description of the task)
+Status (complete or incomplete)
+The application should maintain a list of tasks in memory. It does not need to support data persistence between application runs.
+
+Part 2: Implementation
+
+Develop your Haskell application to fulfill the requirements mentioned above. Pay attention to the following:
+
+Command-line argument parsing to execute the desired command.
+Management of the task list, including adding, listing, updating, and deleting tasks.
+Proper formatting and display of tasks in the CLI interface.
+Part 3: User Interaction
+
+Implement a user-friendly command-line interface that guides users through using the application. Ensure clear instructions and feedback.
+Part 4: Testing and Verification
+
+Thoroughly test your application with various scenarios and commands to ensure correct functionality. Test both valid and invalid inputs.
+Part 5: Documentation and Report
+
+Document your Haskell code with comments, explaining the functionality of various components.
+
+Write a brief report describing your application, including any challenges you faced and how you overcame them.
+
+Part 6: Submission
+
+Submit your Haskell code along with the report describing your implementation and the testing results.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct and efficient implementation of the CLI task manager application.
+
+Adherence to the specified application requirements, including proper handling of commands and task management.
+
+User-friendly command-line interface with clear instructions and feedback.
+
+Thorough testing, including scenarios with both valid and invalid inputs.
+
+Quality of the report, providing insights into your implementation process and any challenges faced.
+
+Overall clarity, readability, and correctness of your Haskell code.

@@ -1,0 +1,50 @@
+Attend a Haskell Meetup or Conference
+Objective: To encourage students to participate in physical or virtual Haskell events.
+
+Task: In this assignment, you will attend a Haskell meetup, conference, or webinar either physically or virtually. The goal is to immerse yourself in the Haskell community, learn from experts, and gain insights into Haskell development practices.
+
+Instructions:
+
+Select an Event: Choose a Haskell meetup, conference, or webinar to attend. You can find Haskell-related events on websites like Meetup, Eventbrite, or conference websites.
+
+Attend the Event: Participate in the chosen event by attending presentations, workshops, or discussions. Take notes during the event to capture key takeaways, interesting ideas, or topics discussed.
+
+Summarize Your Experience: After attending the event, write a summary of your experience. Include the following details:
+
+Event Details: Provide information about the event, such as its name, date, location (if physical), or platform (if virtual).
+
+Key Takeaways: Share the most important lessons, insights, or ideas you gained from the event. Highlight any presentations or workshops that stood out to you.
+
+Speakers and Topics: Mention the names of notable speakers and their presentations or topics. Describe what you found valuable in their talks.
+
+Benefits to Your Haskell Learning Journey: Reflect on how attending this event benefits your understanding of Haskell, your skill development, or your connection to the Haskell community.
+
+Share Your Thoughts: Share your thoughts on the event with your peers or classmates. Discuss what you learned, what excited you, or any challenges you encountered.
+
+Part 1: Event Participation
+
+Participate in the Haskell meetup, conference, or webinar by attending various sessions, presentations, or workshops.
+
+Part 2: Summary Report
+
+Write a summary report (approximately 500-700 words) that captures your experience at the event. Include the event details, key takeaways, notable speakers and topics, and how the event contributes to your Haskell learning journey.
+
+Part 3: Peer Discussion
+
+Engage in a discussion with your peers or classmates about the event. Share your thoughts, insights, and experiences, and encourage others to do the same.
+
+Part 4: Submission
+
+Submit your summary report and any additional documentation as required by your course instructor.
+
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Event Participation: The extent to which you actively participated in the Haskell event by attending various sessions or workshops.
+
+Summary Report: The quality and depth of your summary report, including clear presentation of event details, key takeaways, and insights gained.
+
+Benefits to Learning: The ability to articulate how attending the event contributes to your learning journey in Haskell.
+
+Peer Discussion: Active engagement in peer discussions and sharing of insights and experiences from the event.

@@ -1,0 +1,57 @@
+Higher-Order Functions
+Objective: To understand higher-order functions and their application in Haskell.
+
+Task: In this assignment, students will delve into the concept of higher-order functions in Haskell, a fundamental aspect of functional programming. They will be challenged to implement higher-order functions such as map, filter, and foldl without using built-in Haskell functions. Subsequently, they will use these custom higher-order functions to manipulate lists of data. This assignment aims to reinforce the understanding of higher-order functions and their practical application.
+
+Instructions:
+
+Part 1: Higher-Order Function Implementation
+
+Scenario:
+
+Higher-order functions are functions that can take other functions as arguments or return functions as results. In this assignment, you will implement higher-order functions in Haskell, including map, filter, and foldl, without using the built-in equivalents.
+
+Your Task:
+
+You are required to create a Haskell program that performs the following tasks:
+
+a. Task 1: Implement a Custom map Function
+
+Create a higher-order function, customMap, that takes a function and a list as arguments and applies the function to each element of the list, returning a new list with the results.
+b. Task 2: Implement a Custom filter Function
+
+Create a higher-order function, customFilter, that takes a predicate function and a list as arguments and returns a new list containing elements that satisfy the predicate.
+c. Task 3: Implement a Custom foldl Function
+
+Create a higher-order function, customFoldl, that takes a binary function, an initial accumulator value, and a list as arguments. It should apply the binary function cumulatively to the elements of the list from left to right, producing a single accumulated result.
+Part 2: Code Implementation
+
+Write the Haskell code for the program, including the custom implementations of customMap, customFilter, and customFoldl.
+
+Document your code with comments explaining how each custom higher-order function works and how they are used.
+
+Part 3: Testing and Validation
+
+Test your custom higher-order functions with various functions and lists to ensure they produce the expected results.
+
+Include test cases that cover different scenarios, such as different functions, list lengths, and data types.
+
+Part 4: List Manipulation
+
+Use your custom higher-order functions (customMap, customFilter, and customFoldl) to perform specific list manipulations. For example, apply a custom mapping function to a list of numbers, filter a list of strings based on a custom predicate, and accumulate values in a list using a custom folding function.
+Part 5: Submission
+
+Submit your Haskell program code along with a report that includes the following:
+Descriptions of each custom higher-order function (customMap, customFilter, and customFoldl) and their functionality.
+The results of testing the custom higher-order functions with various functions and lists.
+A description of the list manipulations performed using the custom functions.
+Any observations or insights gained from working with higher-order functions.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and functionality of the custom higher-order functions (customMap, customFilter, and customFoldl).
+
+Quality and clarity of code documentation and comments, especially in explaining how each custom higher-order function works.
+
+Effectiveness of testing and validation, including a discussion of the results and any unexpected outcomes.

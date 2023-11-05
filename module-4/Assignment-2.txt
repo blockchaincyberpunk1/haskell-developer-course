@@ -1,0 +1,58 @@
+Handling Errors with Either Monad
+Objective: To practice error handling using the Either monad in Haskell.
+
+Task: In this assignment, students will explore error handling in Haskell using the Either monad. The Either monad is a powerful tool for dealing with functions that can either return a successful result or an error message. Students will be provided with a set of scenarios where errors can occur, and their task is to write Haskell functions that return an Either type to represent success or failure. They should use the Either monad to handle errors gracefully.
+
+Instructions:
+
+Part 1: Understanding the Either Monad
+
+Scenario:
+
+The Either monad is commonly used in Haskell to handle situations where a function can return either a successful result (Right) or an error message (Left). It provides a structured way to deal with errors and propagate them without causing runtime exceptions.
+
+Your Task:
+
+You are required to complete a series of programming tasks that involve using the Either monad in Haskell:
+
+a. Task 1: Function Results
+
+Implement Haskell functions that perform various operations, such as division, parsing, or data validation, that can result in either success or failure. Use the Either monad to represent these outcomes.
+b. Task 2: Error Propagation
+
+Write Haskell functions that call other functions that may return errors represented by the Left type. Ensure that errors are propagated correctly and that the final result is also of the Either type.
+c. Task 3: Error Handling
+
+Develop Haskell code that handles errors returned by functions using pattern matching and the Either monad. Include logic to gracefully handle errors and produce meaningful error messages.
+Part 2: Code Implementation
+
+Write the Haskell code for each of the tasks described above, including the use of the Either monad to handle errors.
+
+Document your code with comments explaining how the Either monad is used to handle errors in each task.
+
+Part 3: Testing and Validation
+
+Test your Haskell program for each task with various input scenarios to ensure that it behaves correctly in both successful and error cases.
+
+Include test cases that cover different error scenarios, such as division by zero, invalid input, or parsing failures.
+
+Part 4: Real-World Application
+
+Apply the concept of error handling with the Either monad to a real-world scenario or use case where handling errors is essential. Write a Haskell program that demonstrates the practical use of the Either monad in such a scenario.
+Part 5: Submission
+
+Submit your Haskell program code for each task, including the use of the Either monad, along with a report that includes the following:
+Descriptions of each task and how the Either monad is utilized for error handling.
+The results of testing the tasks with various input scenarios.
+A description of the real-world application where error handling with the Either monad is applied.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct implementation of the Haskell program, including the effective use of the Either monad for error handling.
+
+Quality and clarity of code documentation and comments, especially in explaining how the Either monad is used in each task.
+
+Effectiveness of testing and validation, including a discussion of the results and handling of various error scenarios.
+
+Creativity and practicality of the real-world application of error handling with the Either monad.

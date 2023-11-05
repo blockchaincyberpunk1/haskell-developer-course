@@ -1,0 +1,62 @@
+User Input and Data Types
+Objective: To understand how to work with user input and custom data types in Haskell.
+
+Task: In this assignment, students will learn how to interact with the user by taking input and storing it in custom data types. They will create a Haskell program that prompts the user for information such as their name and age. After gathering this data, students will use custom data types to represent and manipulate the user's input. Finally, they will generate personalized messages or perform simple calculations based on the collected data.
+
+Instructions:
+
+Part 1: User Input and Data Types
+
+Scenario:
+
+In real-world Haskell applications, you often need to collect and work with user-provided data. This assignment will guide you through creating a Haskell program that takes user input, stores it in custom data types, and performs operations on that data.
+
+Your Task:
+
+You are required to create a Haskell program that performs the following tasks:
+
+a. Task 1: User Input Gathering
+
+Prompt the user to enter their name and age.
+Use the getLine function to read user input for the name and age.
+Convert the age input to an integer.
+b. Task 2: Custom Data Type
+
+Define a custom data type (e.g., User) to store the user's name and age.
+Create a value of this data type and populate it with the collected user data.
+c. Task 3: Data Manipulation
+
+Use the collected data to generate personalized messages or perform simple calculations.
+For example, you can calculate the user's birth year based on their age.
+d. Task 4: Output
+
+Display the personalized message or calculated result to the user.
+Part 2: Code Implementation
+
+Write the Haskell code for the program, implementing each task in order. Use appropriate variable names and data types.
+
+Document your code with comments explaining how each part of the program works.
+
+Part 3: Testing and Validation
+
+Test your program with various inputs, including valid and invalid data, to ensure it handles user input correctly.
+
+Include test cases that cover different scenarios, such as names with spaces or negative ages.
+
+Part 4: User Experience Enhancement (Optional)
+
+For an extra challenge, consider improving the user experience by providing clear instructions and error handling for invalid inputs.
+Part 5: Submission
+
+Submit your Haskell program code along with a document describing your testing process, including test cases and their outcomes.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and functionality of the program, including correct user input handling.
+
+Quality and clarity of code documentation and comments.
+
+Effectiveness of test cases in validating the correctness of the program.
+
+User experience enhancements (if implemented).

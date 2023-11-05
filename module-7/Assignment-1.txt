@@ -1,0 +1,50 @@
+Implementing Concurrent Tasks
+Objective: To understand and practice concurrent programming in Haskell.
+
+Task: In this assignment, you will explore concurrent programming in Haskell. Your task is to create a Haskell program that spawns multiple concurrent tasks (threads) to perform tasks concurrently. You should use Haskell's concurrency primitives, such as forkIO, and demonstrate how these threads can work together to accomplish a specific goal.
+
+Instructions:
+
+Choose a task that can be divided into smaller subtasks that can run concurrently. This could be a computation task, data processing, or any problem that can benefit from parallelism.
+
+Implement a Haskell program that defines multiple concurrent tasks using the forkIO function. Each task should perform a specific subtask independently.
+
+Ensure that your program manages thread synchronization, as necessary, to avoid race conditions or other concurrency issues. You may use tools like MVar, TVar, or STM for synchronization.
+
+Implement a mechanism for the concurrent tasks to communicate and share results, if applicable.
+
+Include comments in your Haskell code to explain the purpose of each thread and how they cooperate to achieve the overall goal.
+
+Test your program with different inputs to verify that the concurrent tasks work as expected and produce correct results.
+
+Part 1: Example Scenario
+
+Here is an example scenario to help you get started:
+
+You are tasked with calculating the sum of a large list of numbers. Instead of performing the summation sequentially, you decide to break the list into smaller chunks and calculate the sum of each chunk concurrently using separate threads. Once all chunks are computed, you sum the partial results to obtain the final result.
+
+Part 2: Testing and Documentation
+
+Thoroughly test your Haskell program to ensure that it functions correctly, especially under different workloads.
+
+Document your Haskell code with comments explaining the purpose and functionality of each thread.
+
+Part 3: Submission
+
+Prepare a report that describes your concurrent programming implementation, including the problem you chose, the approach you took, and the results you obtained.
+
+Submit the source code of your Haskell program along with the documentation and report.
+
+Evaluation Criteria:
+
+Your concurrent programming assignment will be evaluated based on the following criteria:
+
+Concurrency Implementation: The correctness and effectiveness of your concurrent programming implementation.
+
+Thread Synchronization: Proper use of synchronization mechanisms to ensure thread safety.
+
+Task Decomposition: How well you divided the problem into concurrent subtasks.
+
+Testing: Thorough testing to ensure that concurrent tasks work correctly and produce the expected results.
+
+Documentation: Quality documentation in your Haskell code and the clarity of your report.

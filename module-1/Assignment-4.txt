@@ -1,0 +1,68 @@
+Recursion in Functional Programming
+Objective: To explore recursion as a fundamental concept in functional programming.
+
+Task: In this assignment, students will solve a set of problems using recursive functions in Haskell. These problems can include calculating factorials, computing Fibonacci numbers, or traversing and manipulating nested data structures. The goal is to reinforce the idea of recursion as a natural and powerful tool in functional programming.
+
+Instructions:
+
+Part 1: Recursion
+
+Scenario:
+
+Recursion is a core concept in functional programming, enabling elegant solutions to problems that involve repeated patterns. This assignment aims to deepen your understanding of recursion in Haskell.
+
+Your Task:
+
+You are required to implement a series of functions in Haskell that solve various problems using recursion. Choose at least three of the following tasks:
+
+a. Task 1: Factorial Calculation
+
+Implement a recursive function to calculate the factorial of a given non-negative integer.
+b. Task 2: Fibonacci Sequence
+
+Write a recursive function to generate the nth Fibonacci number.
+c. Task 3: Binary Search
+
+Implement a recursive binary search function to find an element in a sorted list.
+d. Task 4: List Reversal
+
+Create a recursive function that reverses a list.
+e. Task 5: Nested List Sum
+
+Write a recursive function to calculate the sum of all elements in a nested list (list of lists).
+Part 2: Code Implementation
+
+Write the Haskell code for the selected tasks, ensuring that each function is implemented using recursion.
+
+Ensure that your code is well-documented with explanations and comments for each function. Clarify how the recursion works in each case.
+
+Part 3: Testing and Validation
+
+Create test cases for each of the implemented functions. Test them with various inputs to validate correctness.
+
+Include edge cases and scenarios that test the robustness of your recursive functions.
+
+Part 4: Complexity Analysis
+
+In a separate document (e.g., a report or README file), provide a brief complexity analysis for each of your recursive functions. Discuss the time and space complexity.
+Part 5: Submission
+
+Submit the following:
+
+a. Your Haskell code for the selected tasks.
+
+b. Test cases to validate the correctness of your functions.
+
+c. A document (report or README) with the complexity analysis of your recursive functions.
+
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and functionality of the recursive functions.
+
+Quality and clarity of code documentation and comments.
+
+Effectiveness of test cases in validating the correctness of the functions.
+
+Quality of the complexity analysis, including time and space complexity.

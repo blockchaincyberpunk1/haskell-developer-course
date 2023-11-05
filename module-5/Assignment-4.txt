@@ -1,0 +1,57 @@
+Infinite Data Structures
+Objective: To practice creating and working with infinite data structures in Haskell.
+
+Task: In this assignment, you will explore the concept of infinite data structures in Haskell. You'll design and implement infinite lists or trees and demonstrate their utility in solving various computational tasks.
+
+Instructions:
+
+Part 1: Selection of Infinite Data Structure
+
+Choose one of the following infinite data structures to work with in this assignment:
+
+a. Infinite List: Implement an infinite list in Haskell. You can create a list that generates an infinite sequence of numbers, such as natural numbers, Fibonacci numbers, or prime numbers. Your implementation should allow for efficient access to elements in the infinite list.
+
+b. Infinite Tree: Implement an infinite binary tree in Haskell. You can create a binary tree structure where each node generates an infinite sub-tree. This can be used for various computational tasks such as searching for values, finding patterns, or generating fractal-like structures.
+
+Part 2: Implementation
+
+Develop your Haskell program to create and work with the chosen infinite data structure. Ensure that your implementation allows for efficient and lazy generation of elements in the infinite structure.
+Part 3: Computational Tasks
+
+Implement at least two computational tasks or algorithms that utilize the infinite data structure. These tasks should demonstrate the practical applications of infinite structures in solving real problems. Examples include finding specific values, calculating sums, or generating sequences with specific properties.
+Part 4: Testing and Verification
+
+Test your program with various inputs and verify the correctness of your implementations. Evaluate the performance and efficiency of your infinite data structure in handling computational tasks.
+Part 5: Documentation and Report
+
+Document your Haskell code with comments to explain the implementation details, especially focusing on the infinite data structure and the computational tasks.
+
+Write a report that includes the following:
+
+An introduction to the chosen infinite data structure and why it is useful in Haskell.
+A detailed explanation of how you implemented the infinite data structure, including any lazy evaluation techniques used.
+Descriptions of the computational tasks or algorithms you implemented and how they utilize the infinite data structure.
+Results of testing, including examples and comparisons between different inputs or approaches.
+Any challenges faced during the implementation and how you addressed them.
+Part 6: Submission
+
+Submit your Haskell code along with the report describing your implementation, the computational tasks, and the results of your testing.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correct and efficient implementation of the chosen infinite data structure.
+
+Clear and concise documentation within your Haskell code, explaining the structure's generation and usage.
+
+Implementation of computational tasks that demonstrate the practical applications of infinite data structures.
+
+Comprehensive testing and performance evaluation, including examples and comparisons.
+
+Quality of the report, including an introduction to the infinite data structure, clear explanations of the implementation, computational tasks, and testing results.
+
+Overall clarity, readability, and correctness of your Haskell code.
+
+
+
+

@@ -1,0 +1,52 @@
+Parallel Sorting Algorithm
+Objective: To practice parallelism in sorting algorithms.
+
+Task: In this assignment, you will explore the concept of parallelism in sorting algorithms using Haskell. Your task is to implement a parallel sorting algorithm, such as parallel merge sort, and compare its performance with the serial (non-parallel) version of the same algorithm. You will conduct performance benchmarking on large datasets to measure the benefits of parallelism.
+
+Instructions:
+
+Choose a sorting algorithm that can be parallelized effectively. Parallel merge sort is a recommended choice, but you can explore other parallel sorting algorithms as well.
+
+Implement both the serial and parallel versions of the chosen sorting algorithm in Haskell. You may use Haskell's concurrency and parallelism features to parallelize the sorting process.
+
+Design a mechanism to generate large datasets of random numbers for testing. You should be able to control the size of the dataset to evaluate the sorting algorithm's performance on various input sizes.
+
+Measure and record the execution time for sorting large datasets using both the serial and parallel versions of the sorting algorithm. Ensure that your measurements are accurate and consistent.
+
+Calculate and present the speedup achieved by the parallel sorting algorithm compared to the serial version. Speedup is defined as the ratio of the execution time for the serial sorting to the execution time for the parallel sorting.
+
+Include comments in your Haskell code to explain the sorting algorithm, the parallelization approach, and any optimizations you applied.
+
+Part 1: Example Sorting Algorithm
+
+Here is an example scenario to help you get started:
+
+You choose to implement parallel merge sort in Haskell. You design a parallel version of the merge sort algorithm that divides the input dataset into smaller segments and sorts them concurrently using Haskell's parallelism features. You compare the sorting performance of your parallel merge sort with the traditional serial merge sort.
+
+Part 2: Testing and Documentation
+
+Thoroughly test your Haskell program to ensure that it correctly sorts large datasets and that the parallel version exhibits improved performance.
+
+Document your Haskell code with comments explaining the sorting algorithm, parallelization approach, and optimizations applied.
+
+Part 3: Submission
+
+Prepare a report that describes your sorting algorithm, the parallelization strategy used, and the results obtained.
+
+Include a graph or visual representation of the speedup achieved for different input dataset sizes.
+
+Evaluation Criteria:
+
+Your parallel sorting algorithm assignment will be evaluated based on the following criteria:
+
+Correctness: The correctness of your sorting algorithm and the accuracy of the sorted output.
+
+Speedup: The degree of speedup achieved through the parallel sorting algorithm compared to the serial version.
+
+Parallelization Approach: The effectiveness of your chosen parallelization approach in improving sorting performance.
+
+Testing: Thorough testing to ensure the correctness and efficiency of your sorting algorithm.
+
+Documentation: Quality documentation in your Haskell code and the clarity of your report.
+
+Presentation: The effectiveness of your graphical representations of speedup.

@@ -1,0 +1,56 @@
+Lambda Expressions and Functional Programming
+Objective: To practice using lambda expressions for anonymous functions.
+
+Task: In this assignment, students will focus on lambda expressions, which are a fundamental concept in functional programming. Lambda expressions allow the creation of anonymous functions for specific tasks. Students will be presented with a series of problems where they need to define and use lambda expressions in Haskell. These problems will require students to apply their knowledge of lambda expressions for tasks such as filtering lists or performing custom data transformations. This assignment aims to reinforce the understanding and practical application of lambda expressions in functional programming.
+
+Instructions:
+
+Part 1: Lambda Expressions Overview
+
+Scenario:
+
+Lambda expressions, also known as anonymous functions, are a concise way to define functions without explicitly naming them. They are widely used in functional programming to pass small, single-purpose functions as arguments or to create functions on the fly.
+
+Your Task:
+
+You are required to complete a series of programming tasks that involve using lambda expressions in Haskell:
+
+a. Task 1: Filtering with Lambda Expressions
+
+Implement a Haskell program that filters a list using a custom lambda expression. Given a list and a lambda expression, filter the list to include only elements that satisfy the lambda condition.
+b. Task 2: Mapping with Lambda Expressions
+
+Create a Haskell program that performs mapping operations on a list using a custom lambda expression. Given a list and a lambda expression, apply the lambda function to each element and return a new list with the results.
+c. Task 3: Custom Transformations with Lambda Expressions
+
+Develop a Haskell program that performs custom transformations on data using lambda expressions. Given a list and a lambda expression, use the lambda function to transform each element based on specific criteria.
+Part 2: Code Implementation
+
+Write the Haskell code for each of the tasks described above, including the use of lambda expressions.
+
+Document your code with comments explaining the purpose and functionality of each lambda expression.
+
+Part 3: Testing and Validation
+
+Test your Haskell program for each task with various lists and lambda expressions to ensure they produce the expected results.
+
+Include test cases that cover different scenarios, such as different lists, lambda expressions, and data types.
+
+Part 4: Lambda Expressions in Practical Scenarios
+
+Apply lambda expressions to practical scenarios, such as filtering a list of numbers, mapping over a list of strings, or performing custom data transformations.
+Part 5: Submission
+
+Submit your Haskell program code for each task, including the use of lambda expressions, along with a report that includes the following:
+Descriptions of each task and the functionality of the lambda expressions used.
+The results of testing the tasks with various lists and lambda expressions.
+A discussion of the practical scenarios where lambda expressions were applied.
+Evaluation Criteria:
+
+Your assignment will be evaluated based on the following criteria:
+
+Correctness and functionality of the Haskell program, including the correct use of lambda expressions.
+
+Quality and clarity of code documentation and comments, especially in explaining the purpose and functionality of each lambda expression.
+
+Effectiveness of testing and validation, including a discussion of the results and any unexpected outcomes.

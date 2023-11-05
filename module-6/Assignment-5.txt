@@ -1,0 +1,57 @@
+CLI Chat Application
+Objective: To develop a command-line chat application in Haskell.
+
+Task: In this assignment, you will create a simple command-line chat application using Haskell. The objective is to build a chat system that allows users to send and receive messages within a local network. Your application should support user registration, message history, and real-time communication.
+
+Instructions:
+
+Part 1: User Registration
+
+Implement user registration functionality. Users should be able to create an account with a unique username and password. You can store user data in memory or a text file.
+
+Ensure that your registration system prevents duplicate usernames and enforces secure password storage.
+
+Part 2: Real-Time Messaging
+
+Implement real-time messaging between users. Users should be able to send messages to each other in real-time. You can use Haskell's concurrency features (e.g., threads or async) to achieve real-time communication.
+
+Design the messaging system to allow private messages between users. Users should be able to specify the recipient's username when sending a message.
+
+Part 3: Message History
+
+Implement a message history feature. Users should be able to retrieve and view the chat history, including both sent and received messages.
+
+Consider storing chat history in memory or a file to make it accessible across sessions.
+
+Part 4: User Interface
+
+Create a command-line user interface (CLI) that provides a menu or set of commands for users to interact with your chat application. Ensure that the user interface is intuitive and user-friendly.
+Part 5: Testing and Documentation
+
+Thoroughly test your chat application to ensure that it functions correctly, including user registration, messaging, and message history retrieval.
+
+Document your Haskell code with comments explaining the functionality of various components.
+
+Part 6: Submission
+
+Prepare a report that describes your CLI chat application, including its features, functionality, and how it fulfills the assignment objectives.
+
+Submit the source code of your Haskell chat application, along with the documentation and report.
+
+Evaluation Criteria:
+
+Your CLI chat application will be evaluated based on the following criteria:
+
+User Registration: The implementation of user registration with unique usernames and secure password storage.
+
+Real-Time Messaging: The ability to send and receive real-time messages, including private messages.
+
+Message History: The implementation of a message history feature that includes both sent and received messages.
+
+User Interface: The design of a user-friendly command-line interface (CLI) for users to interact with the application.
+
+Testing: Thorough testing to ensure that the chat application functions correctly.
+
+Documentation: Quality documentation in your Haskell code.
+
+Report: The clarity and comprehensiveness of the report, including the application's features and functionality.
